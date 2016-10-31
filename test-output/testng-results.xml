@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51684" started-at="2016-10-28T05:59:43Z" finished-at="2016-10-28T06:00:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51684" started-at="2016-10-28T05:59:43Z" finished-at="2016-10-28T06:00:35Z">
+      <class name="com.selenium.maven1.ToolSquareTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.selenium.maven1.ToolSquareTest@4f933fd1]" name="before" is-config="true" duration-ms="7166" started-at="2016-10-28T11:29:43Z" finished-at="2016-10-28T11:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="iphone()[pri:0, instance:com.selenium.maven1.ToolSquareTest@4f933fd1]" name="iphone" duration-ms="21702" started-at="2016-10-28T11:29:51Z" finished-at="2016-10-28T11:30:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphone -->
+        <test-method status="PASS" signature="toolSquare()[pri:0, instance:com.selenium.maven1.ToolSquareTest@4f933fd1]" name="toolSquare" duration-ms="21843" started-at="2016-10-28T11:30:12Z" finished-at="2016-10-28T11:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolSquare -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.selenium.maven1.ToolSquareTest@4f933fd1]" name="after" is-config="true" duration-ms="951" started-at="2016-10-28T11:30:34Z" finished-at="2016-10-28T11:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.selenium.maven1.ToolSquareTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

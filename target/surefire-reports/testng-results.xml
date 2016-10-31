@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.selenium.maven1.ToolsquareTest" duration-ms="164132" started-at="2016-10-27T07:43:15Z" finished-at="2016-10-27T07:45:59Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="164132" started-at="2016-10-27T07:43:15Z" finished-at="2016-10-27T07:45:59Z">
+      <class name="com.selenium.maven1.ToolsquareTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.selenium.maven1.ToolsquareTest@6442b0a6]" name="before" is-config="true" duration-ms="48081" started-at="2016-10-27T13:13:15Z" finished-at="2016-10-27T13:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="tol()[pri:0, instance:com.selenium.maven1.ToolsquareTest@6442b0a6]" name="tol" duration-ms="81084" started-at="2016-10-27T13:14:03Z" finished-at="2016-10-27T13:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tol -->
+        <test-method status="PASS" signature="two()[pri:0, instance:com.selenium.maven1.ToolsquareTest@6442b0a6]" name="two" duration-ms="29822" started-at="2016-10-27T13:15:25Z" finished-at="2016-10-27T13:15:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.selenium.maven1.ToolsquareTest@6442b0a6]" name="after" is-config="true" duration-ms="5131" started-at="2016-10-27T13:15:54Z" finished-at="2016-10-27T13:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.selenium.maven1.ToolsquareTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.selenium.maven1.ToolsquareTest -->
+</testng-results>
